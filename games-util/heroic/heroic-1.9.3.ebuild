@@ -18,7 +18,8 @@ DEPEND="
 	sys-fs/fuse:0
 	sys-apps/gawk
 	dev-python/wheel
-	dev-python/setuptools"
+	dev-python/setuptools
+	x11-misc/xdg-utils"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
